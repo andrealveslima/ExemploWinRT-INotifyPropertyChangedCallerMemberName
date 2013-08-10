@@ -1,0 +1,1 @@
+c:\users\andré\documents\visual studio 2012\Projects\INotifyPropertyChangedCallerMemberName\INotifyPropertyChangedCallerMemberName\INotifyPropertyChangedCallerMemberName.csproj;neutral
